@@ -10,7 +10,7 @@ This script works in `FIVE` steps:
      * A snapshot was taken at Block Height `21659759` (2022-04-15 23:48:40 UTC)
      * Output logs for this snapshot are available at `./logs/season2_stakers.log`
      
-2. The snapshot list has its addresses staking less than 250 HOPR removed
+2. The list has its addresses staking less than 250 HOPR removed
 
 3. A Snapshot with all Season 3 HOPR Stakers is taken
      * A snapshot was taken at Block Height `21868357` (2022-04-28 11:13:45 UTC)
