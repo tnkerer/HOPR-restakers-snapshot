@@ -7,13 +7,13 @@ A Node JS application to calculate recipients of Restaker HOPR Boost NFTs for th
 This script works in `FIVE` steps:
 
 1. A Snapshot with all Season 2 HOPR Stakers is taken
-     * A snapshot was taken at Block Height `21659759` (2022-04-15 23:48:40 UTC)
+     * A snapshot was taken at Block Height `21653434` (2022-04-15 15:00:00 UTC)
      * Output logs for this snapshot are available at `./logs/season2_stakers.log`
      
 2. The list has its addresses staking less than 250 HOPR removed
 
 3. A Snapshot with all Season 3 HOPR Stakers is taken
-     * A snapshot was taken at Block Height `21868357` (2022-04-28 11:13:45 UTC)
+     * A snapshot was taken at Block Height `21884993` (2022-04-29 12:00:00 UTC)
      * Output logs for this snapshot are available at `./logs/season3_stakers.log`
 
 4. Eligible Restaker HOPR Boost NFT recipients are sorted out
